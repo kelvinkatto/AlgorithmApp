@@ -1,0 +1,14 @@
+E:\projects\C#\MyConsoleApp\EmployeeApplication\bin\Debug\net8.0\EmployeeConsoleApplication.exe
+E:\projects\C#\MyConsoleApp\EmployeeApplication\bin\Debug\net8.0\EmployeeConsoleApplication.deps.json
+E:\projects\C#\MyConsoleApp\EmployeeApplication\bin\Debug\net8.0\EmployeeConsoleApplication.runtimeconfig.json
+E:\projects\C#\MyConsoleApp\EmployeeApplication\bin\Debug\net8.0\EmployeeConsoleApplication.dll
+E:\projects\C#\MyConsoleApp\EmployeeApplication\bin\Debug\net8.0\EmployeeConsoleApplication.pdb
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeConsoleApplication.AssemblyInfoInputs.cache
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeConsoleApplication.AssemblyInfo.cs
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeConsoleApplication.csproj.CoreCompileInputs.cache
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeConsoleApplication.dll
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\refint\EmployeeConsoleApplication.dll
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeConsoleApplication.pdb
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeConsoleApplication.genruntimeconfig.cache
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\ref\EmployeeConsoleApplication.dll

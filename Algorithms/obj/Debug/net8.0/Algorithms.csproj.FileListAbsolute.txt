@@ -1,0 +1,11 @@
+E:\projects\C#\MyConsoleApp\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+E:\projects\C#\MyConsoleApp\Algorithms\bin\Debug\net8.0\Algorithms.dll
+E:\projects\C#\MyConsoleApp\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.dll
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll
