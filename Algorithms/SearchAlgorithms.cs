@@ -33,7 +33,7 @@ namespace Algorithms
                 // If the current element matches the target, return the index
                 if (array[i] == target)
                 {
-                    Console.WriteLine($"returned index is {i}  and the value is {array[i]}");
+                   // Console.WriteLine($"returned index is {i}  and the value is {array[i]}");
                     return i;
                 }
             }
@@ -82,14 +82,7 @@ namespace Algorithms
 
             // Use LINQ to find the index of the target value
             int index = Array.FindIndex(array, element => element == target);
-            if (index != -1)
-            {
-                Console.WriteLine($"returned index is {index}  and the value is {array[index]}");
-            }
-            else
-            {
-                Console.WriteLine($"Target value not found");
-            }
+         
            
             return index; // Returns -1 if not found
         }

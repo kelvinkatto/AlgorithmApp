@@ -12,3 +12,4 @@ E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\refint\Employee
 E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeApplication.pdb
 E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeApplication.genruntimeconfig.cache
 E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\ref\EmployeeApplication.dll
+E:\projects\C#\MyConsoleApp\EmployeeApplication\obj\Debug\net8.0\EmployeeApplication.sourcelink.json

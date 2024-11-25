@@ -16,3 +16,4 @@ E:\projects\C#\MyConsoleApp\ConsoleAppSearchAlgorithms\obj\Debug\net8.0\refint\C
 E:\projects\C#\MyConsoleApp\ConsoleAppSearchAlgorithms\obj\Debug\net8.0\ConsoleAppSearchAlgorithms.pdb
 E:\projects\C#\MyConsoleApp\ConsoleAppSearchAlgorithms\obj\Debug\net8.0\ConsoleAppSearchAlgorithms.genruntimeconfig.cache
 E:\projects\C#\MyConsoleApp\ConsoleAppSearchAlgorithms\obj\Debug\net8.0\ref\ConsoleAppSearchAlgorithms.dll
+E:\projects\C#\MyConsoleApp\ConsoleAppSearchAlgorithms\obj\Debug\net8.0\ConsoleAppSearchAlgorithms.sourcelink.json

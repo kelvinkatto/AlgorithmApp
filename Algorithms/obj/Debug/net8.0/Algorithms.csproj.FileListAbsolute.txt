@@ -9,3 +9,4 @@ E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.dll
 E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
 E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.pdb
 E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll
+E:\projects\C#\MyConsoleApp\Algorithms\obj\Debug\net8.0\Algorithms.sourcelink.json

@@ -13,11 +13,11 @@ namespace ConsoleAppSearchAlgorithms
 
         public static async Task SelectSearchAlgorithm()
         {
-            Console.WriteLine("Welcome to Search Algorithm Performance Comparator!");
+            Console.WriteLine("****Welcome to Search Algorithm Performance Comparator!****");
 
             while (true)
             {
-                Console.WriteLine("\nMenu:");
+                Console.WriteLine("\nMenu Selection");
                 Console.WriteLine("1. Linear Search Algorithm");
                 Console.WriteLine("2. Binary Search Algorithm");
                 Console.WriteLine("3. Lambda Search Algorithm");
@@ -121,7 +121,7 @@ namespace ConsoleAppSearchAlgorithms
                             return index;
 
                         case "2":
-                            index = arraySize / 3; // avarage case , take any index i either halves
+                            index = arraySize / 3; // avarage case , take any index in either halves
                             return index;
 
                         case "3":

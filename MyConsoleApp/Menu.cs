@@ -15,7 +15,7 @@ namespace MyConsoleApp
         //Method to display menu of Sorting methods
         public static async Task SelectSortAlgorithm()
         {
-            Console.WriteLine("Welcome to Sorting Algorithm Performance Comparator!");
+            Console.WriteLine("*****Welcome to Sorting Algorithm Performance Comparator!*****");
 
             while (true)
             {

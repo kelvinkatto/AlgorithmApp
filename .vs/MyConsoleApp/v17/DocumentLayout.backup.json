@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\projects\\C#\\MyConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|e:\\projects\\c#\\myconsoleapp\\employeeapplication\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21CDAF1A-E1B0-4ABC-908B-9D7149CB74C8}|ConsoleAppSearchAlgorithms\\ConsoleAppSearchAlgorithms.csproj|e:\\projects\\c#\\myconsoleapp\\consoleappsearchalgorithms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CDAF1A-E1B0-4ABC-908B-9D7149CB74C8}|ConsoleAppSearchAlgorithms\\ConsoleAppSearchAlgorithms.csproj|solutionrelative:consoleappsearchalgorithms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +15,8 @@
       "RelativeMoniker": "D:0:0:{0E7D781E-94C6-4299-BF0D-9B222274856F}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|e:\\projects\\c#\\myconsoleapp\\employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7D781E-94C6-4299-BF0D-9B222274856F}|Algorithms\\Algorithms.csproj|e:\\projects\\c#\\myconsoleapp\\algorithms\\printarrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7D781E-94C6-4299-BF0D-9B222274856F}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\printarrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7D781E-94C6-4299-BF0D-9B222274856F}|Algorithms\\Algorithms.csproj|e:\\projects\\c#\\myconsoleapp\\algorithms\\delegateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7D781E-94C6-4299-BF0D-9B222274856F}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\delegateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|e:\\projects\\c#\\myconsoleapp\\employeeapplication\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21CDAF1A-E1B0-4ABC-908B-9D7149CB74C8}|ConsoleAppSearchAlgorithms\\ConsoleAppSearchAlgorithms.csproj|e:\\projects\\c#\\myconsoleapp\\consoleappsearchalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CDAF1A-E1B0-4ABC-908B-9D7149CB74C8}|ConsoleAppSearchAlgorithms\\ConsoleAppSearchAlgorithms.csproj|solutionrelative:consoleappsearchalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PrintArrayHelper.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\PrintArrayHelper.cs",
-              "RelativeDocumentMoniker": "Algorithms\\PrintArrayHelper.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\PrintArrayHelper.cs",
-              "RelativeToolTip": "Algorithms\\PrintArrayHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:53:38.119Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SearchAlgorithms.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\SearchAlgorithms.cs",
-              "RelativeDocumentMoniker": "Algorithms\\SearchAlgorithms.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\SearchAlgorithms.cs",
-              "RelativeToolTip": "Algorithms\\SearchAlgorithms.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:48:37.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DelegateClass.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\DelegateClass.cs",
-              "RelativeDocumentMoniker": "Algorithms\\DelegateClass.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\DelegateClass.cs",
-              "RelativeToolTip": "Algorithms\\DelegateClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:36:55.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Menu.cs",
-              "RelativeDocumentMoniker": "ConsoleAppSearchAlgorithms\\Menu.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Menu.cs",
-              "RelativeToolTip": "ConsoleAppSearchAlgorithms\\Menu.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwDsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T10:55:01.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeApplication\\Program.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Program.cs",
-              "RelativeToolTip": "EmployeeApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T22:05:23.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Employees.cs",
               "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Employees.cs",
               "RelativeDocumentMoniker": "EmployeeApplication\\Employees.cs",
               "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Employees.cs",
               "RelativeToolTip": "EmployeeApplication\\Employees.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T22:04:41.206Z"
+              "WhenOpened": "2024-11-25T20:46:06.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchAlgorithms.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\SearchAlgorithms.cs",
+              "RelativeDocumentMoniker": "Algorithms\\SearchAlgorithms.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\SearchAlgorithms.cs",
+              "RelativeToolTip": "Algorithms\\SearchAlgorithms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:40:10.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSearchAlgorithms\\Program.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Program.cs",
+              "RelativeToolTip": "ConsoleAppSearchAlgorithms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:15:02.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Menu.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSearchAlgorithms\\Menu.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Menu.cs",
+              "RelativeToolTip": "ConsoleAppSearchAlgorithms\\Menu.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:58:38.236Z"
             }
           ]
         }
