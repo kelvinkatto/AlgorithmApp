@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace Algorithms
+﻿namespace Algorithms
 {
     //This class contains three methods swap , randomize and prepared method
     public class Initial

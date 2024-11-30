@@ -1,6 +1,4 @@
-﻿using Algorithms;
-
-namespace ConsoleAppSearchAlgorithms
+﻿namespace ConsoleAppSearchAlgorithms
 {
     internal class Program
     {

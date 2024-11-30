@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\projects\\C#\\MyConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52674ABF-F1AB-4F91-9729-614F73998F5A}|MyConsoleApp\\MyConsoleApp.csproj|e:\\projects\\c#\\myconsoleapp\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52674ABF-F1AB-4F91-9729-614F73998F5A}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52674ABF-F1AB-4F91-9729-614F73998F5A}|MyConsoleApp\\MyConsoleApp.csproj|e:\\projects\\c#\\myconsoleapp\\myconsoleapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52674ABF-F1AB-4F91-9729-614F73998F5A}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|e:\\projects\\c#\\myconsoleapp\\employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|e:\\projects\\c#\\myconsoleapp\\employeeapplication\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{549D8A14-A4A0-483B-8340-7F7FD8989DA0}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CDAF1A-E1B0-4ABC-908B-9D7149CB74C8}|ConsoleAppSearchAlgorithms\\ConsoleAppSearchAlgorithms.csproj|e:\\projects\\c#\\myconsoleapp\\consoleappsearchalgorithms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CDAF1A-E1B0-4ABC-908B-9D7149CB74C8}|ConsoleAppSearchAlgorithms\\ConsoleAppSearchAlgorithms.csproj|solutionrelative:consoleappsearchalgorithms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7D781E-94C6-4299-BF0D-9B222274856F}|Algorithms\\Algorithms.csproj|e:\\projects\\c#\\myconsoleapp\\algorithms\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7D781E-94C6-4299-BF0D-9B222274856F}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\searchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21CDAF1A-E1B0-4ABC-908B-9D7149CB74C8}|ConsoleAppSearchAlgorithms\\ConsoleAppSearchAlgorithms.csproj|e:\\projects\\c#\\myconsoleapp\\consoleappsearchalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,60 +30,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Employees.cs",
-              "RelativeDocumentMoniker": "EmployeeApplication\\Employees.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Employees.cs",
-              "RelativeToolTip": "EmployeeApplication\\Employees.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowCUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:46:06.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchAlgorithms.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\SearchAlgorithms.cs",
-              "RelativeDocumentMoniker": "Algorithms\\SearchAlgorithms.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\Algorithms\\SearchAlgorithms.cs",
-              "RelativeToolTip": "Algorithms\\SearchAlgorithms.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:40:10.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppSearchAlgorithms\\Program.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Program.cs",
-              "RelativeToolTip": "ConsoleAppSearchAlgorithms\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\MyConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\MyConsoleApp\\Program.cs",
+              "RelativeToolTip": "MyConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:15:02.622Z"
+              "WhenOpened": "2024-11-30T21:42:23.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Menu.cs",
-              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Menu.cs",
-              "RelativeDocumentMoniker": "ConsoleAppSearchAlgorithms\\Menu.cs",
-              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Menu.cs",
-              "RelativeToolTip": "ConsoleAppSearchAlgorithms\\Menu.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\MyConsoleApp\\Menu.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Menu.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\MyConsoleApp\\Menu.cs",
+              "RelativeToolTip": "MyConsoleApp\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:58:38.236Z"
+              "WhenOpened": "2024-11-30T21:42:06.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Program.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Program.cs",
+              "RelativeToolTip": "EmployeeApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:41:49.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Employees.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Employees.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\EmployeeApplication\\Employees.cs",
+              "RelativeToolTip": "EmployeeApplication\\Employees.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:41:18.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSearchAlgorithms\\Program.cs",
+              "ToolTip": "E:\\projects\\C#\\MyConsoleApp\\ConsoleAppSearchAlgorithms\\Program.cs",
+              "RelativeToolTip": "ConsoleAppSearchAlgorithms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:40:56.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:734882235:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1218484618:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:62984914:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

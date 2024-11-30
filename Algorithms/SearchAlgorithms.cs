@@ -1,14 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Reflection.Metadata.Ecma335;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace Algorithms
+﻿namespace Algorithms
 {
     // the code below have been obtained from the website called https://medium.com/ and being modified to be used in this application
     //  complete url to the code 

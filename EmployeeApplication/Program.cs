@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace EmployeeApplication
+﻿namespace EmployeeApplication
 {
     internal class Program
     {

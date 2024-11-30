@@ -1,10 +1,4 @@
 ﻿using Algorithms;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ConsoleAppSearchAlgorithms
 {
@@ -23,11 +17,12 @@ namespace ConsoleAppSearchAlgorithms
                 Console.WriteLine("3. Lambda Search Algorithm");
                
                 Console.WriteLine("0. Exit");
-                Console.Write("Select a Search algorithm to compare (1-3): ");
+                Console.Write("Select a Search algorithm to measure the performance (1-3): ");
 
                 // Read user input
                 string choice = Console.ReadLine();
-                // SortingDelegate sortDelegate = SortMethods.InsertionSort;
+              
+
                 SearchDelegate? selectedAlgorithmDelegate = null;
 
                 switch (choice)
@@ -62,7 +57,7 @@ namespace ConsoleAppSearchAlgorithms
 
                 // Prepare the array
                int[] array_numbers = Initial.Prepare(arraySize);
-               // int[] array_numbers = { 5, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
+             
                 //selection of the Test creteria
                 Console.WriteLine($"\nMeasuring performance  of the selected search algorithm");
 

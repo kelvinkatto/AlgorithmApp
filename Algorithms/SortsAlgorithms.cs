@@ -1,14 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-// the code below have been obtained from the website called https://learn.microsoft.com/ and being modified to be used in this application
+﻿// the code below have been obtained from the website called https://learn.microsoft.com/ and being modified to be used in this application
 //  complete url to the code 
 //https://learn.microsoft.com/en-us/answers/questions/1259438/c-sorting-algorithms-implementation
-
 
 namespace Algorithms
 {
@@ -85,7 +77,7 @@ namespace Algorithms
                 throw new ArgumentNullException(nameof(array), "Array cannot be null.");
 
            
-
+            //loop to sort adjacent elements
             for (int i = 0; i < array.Length; i++)
             {
                 for (int j = 0; j < array.Length - 1; j++)
@@ -103,7 +95,7 @@ namespace Algorithms
         }
 
 
-
+        //Merge Sort Algorithm
         public static void MergeSort(int[] array)
         {
             if (array == null) // check if array is null
@@ -133,6 +125,7 @@ namespace Algorithms
 
         }
 
+        // Helper method for Merge Sort
         private static void Merge(int[] array, int[] left, int[] right)
         {
             int i = 0, j = 0, k = 0;
